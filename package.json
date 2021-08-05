@@ -1,0 +1,24 @@
+{
+  "name": "teamprofile",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtkfolger/TeamProfile.git"
+  },
+  "author": "Michael Folger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtkfolger/TeamProfile/issues"
+  },
+  "homepage": "https://github.com/mtkfolger/TeamProfile#readme"
+}
