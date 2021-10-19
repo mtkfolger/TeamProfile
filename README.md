@@ -5,23 +5,17 @@ Team Profile
 >This project will build profiles for every team member in a given team. This includes their name, position or title, their ID number, and the GitHub account and e-mail address. 
 
 **Table of Contents** 
-[Installation]
-(#Installation)
-
-[Usage]
-(#Usage)
-
-[License]
-(#License)
-
-[Contribution Guidelines]
-(#Contribution)
-
-[Tests]
-(#Tests)
-
-[Questions]
-(#Questions)
+>[Installation](#Installation)
+>
+>[Usage](#Usage)
+>
+>[License](#License)
+>
+>[Contribution Guidelines](#Contribution)
+>
+>[Tests](#Tests)
+>
+>[Questions](#Questions)
 
 **Installation Instructions <a name="Installation"></a>**
 >To install this application, simply run:
