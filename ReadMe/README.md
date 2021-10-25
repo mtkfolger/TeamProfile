@@ -14,7 +14,7 @@
 
 ###Installation Instructions <a name="Installation"></a>
 >To install this application, simply run:
-    npm TeamProfile
+    npm start
 
 ###Usage <a name="Usage"></a>
 >The team profile application could be used to compile every team members critical contact information all in one convenient place. 
