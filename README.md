@@ -3,6 +3,12 @@
 **Description**
 >This project will build profiles for every team member in a given team. This includes their name, position or title, their ID number, and the GitHub account and e-mail address. 
 
+**Screenshot of Application**
+>![teamProfile_snip](https://user-images.githubusercontent.com/84151997/138796736-48fda3bd-b106-41b5-849f-b56f1894d1c2.JPG)
+
+**Video Walkthrough**
+> https://user-images.githubusercontent.com/84151997/138796889-18487cde-f0f8-46ed-9e60-298d0b6858c3.mp4
+
 **Table of Contents** 
 >[Installation](#Installation)
 >
